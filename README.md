@@ -26,8 +26,8 @@
 
 ### Instalar *[Donde aprender OCI](https://www.youtube.com/user/OracleLearning/playlists)*
 
-Level 100 - Basico (Compute, VCN, Storage, etc...)
-Level 200 - Intermedio
-Level 300 - Avanzado
+- Level 100 - Basico (Compute, VCN, Storage, etc...)
+- Level 200 - Intermedio
+- Level 300 - Avanzado
 
 ## *[Linkedin](https://www.linkedin.com/in/jcastilla/)*
