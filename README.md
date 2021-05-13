@@ -10,10 +10,9 @@
 
 ### Crear *[API KEY](https://docs.oracle.com/es-ww/iaas/Content/Functions/Tasks/functionssetupapikey.htm)*
 
+  #### Testing OCI CLI oci ce node-pool-options get --node-pool-option-id all
 
-oci ce node-pool-options get --node-pool-option-id all
-
-Instalar *[Visual Studio Code](https://docs.oracle.com/es-ww/iaas/Content/Functions/Tasks/functionssetupapikey.htm)*
+### Instalar *[Visual Studio Code](https://code.visualstudio.com/)*
 
 
 
