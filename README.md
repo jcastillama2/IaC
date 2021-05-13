@@ -10,7 +10,7 @@
 
 ### Crear *[API KEY](https://docs.oracle.com/es-ww/iaas/Content/Functions/Tasks/functionssetupapikey.htm)*
 
-     Testing OCI CLI oci ce node-pool-options get --node-pool-option-id all
+     Testing OCI CLI => oci ce node-pool-options get --node-pool-option-id all
   
 ### Descargar *[Terraform](https://www.terraform.io/downloads.html)*
 
